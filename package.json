@@ -1,0 +1,24 @@
+{
+  "name": "stylus-common",
+  "version": "1.0.0",
+  "description": "Some common stylus styles and mixins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elmordo/stylus-common.git"
+  },
+  "keywords": [
+    "stylus-lang",
+    "styles",
+    "css"
+  ],
+  "author": "Ing. Petr Jindra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elmordo/stylus-common/issues"
+  },
+  "homepage": "https://github.com/elmordo/stylus-common#readme"
+}
