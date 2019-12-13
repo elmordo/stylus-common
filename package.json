@@ -1,6 +1,6 @@
 {
   "name": "stylus-common",
-  "version": "1.0.5",
+  "version": "1.1.0",
   "description": "Some common stylus styles and mixins",
   "main": "index.js",
   "scripts": {
